@@ -1,0 +1,5 @@
+.box {
+    min-height: 220px;
+    flex-grow: 1;
+    max-width: 300px;
+}
